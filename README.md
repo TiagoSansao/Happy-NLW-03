@@ -5,26 +5,26 @@
     <strong>Projeto feito para facilitar a localização de orfanatos em Joinville, Santa Catarina.</strong> 
   </p>
   <p align="center"> 
-  <a href="#status">Status</a> •
+  <a href="#status">Status do projeto</a> •
     <a href="#preview">Preview</a> •
-    <a href="#instalação">Instalação</a> •
+    <a href="#instalacao">Instalação</a> •
     <a href="#tecnologias">Tecnologias</a> •
-    <a href="#licença">Licença</a>
+    <a href="#licenca">Licença</a>
   </p>
 </header>
 <main>
-  <div>
-    <h3 align="center">Status</h3>
+  <div id="status">
+    <h3 align="center">Status do projeto</h3>
     <h4 align="center">
       🚧 O projeto está em desenvolvimento. 🚧
     </h4>
   </div>
-  <div>
+  <div id="preview">
     <h3 align="center">Preview</h3>
     <img src="./src/images/git-preview-1.png">
     <img src="./src/images/git-preview-2.png">
   </div>
-  <div>
+  <div id="instalacao">
     <h3 align="center">Instalação</h3>
     <p> É necessário ter o <a href="https://nodejs.org/en/" target="_blank">Node.JS</a> ou o <a href="https://classic.yarnpkg.com/en/" target="_blank">Yarn</a> instalado para seguir os próximos passos; </p>
 
@@ -41,14 +41,14 @@
       $ yarn start
 
   </div>
-  <div>
-    <h3 align="center" id="tecnologias">Tecnologias utilizadas</h3>
+  <div id="tecnologias">>
+    <h3 align="center">Tecnologias utilizadas</h3>
     <ul>
       <li>React.JS</li>
       <li>Typescript</li>
     </ul>
   </div>
-  <div>
+  <div id="licenca">
     <h3 align="center">Licença</h3>
     <p>O projeto está sobre a licença <a href="https://github.com/TiagoSansao/Happy-NLW-03/blob/master/LICENSE" target="_blank">MIT</a>!</p>
   </div>
