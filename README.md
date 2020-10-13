@@ -26,8 +26,22 @@
     <img src="./src/images/git-preview-2.png">
   </div>
   <div>
-    <h3 align="center">Instalação /h3>
-    <code> testando testando </code>
+    <h3 align="center">Instalação</h3>
+    <p> É necessário ter o <a href="https://nodejs.org/en/" target="_blank">Node.JS</a> ou o <a href="https://classic.yarnpkg.com/en/" target="_blank">Yarn</a> instalado para seguir os próximos passos; </p>
+    <code>
+    
+      // Clone the repository
+      $ git clone https://github.com/TiagoSansao/Happy-NLW-03 
+
+      // Go to the directory
+      cd Happy-NLW-3
+
+      // Install all the dependencies
+      yarn install
+
+      // Start the application
+      yarn start
+  </code>
   </div>
 
 </main>
