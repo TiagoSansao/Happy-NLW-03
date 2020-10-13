@@ -26,7 +26,7 @@
   </div>
   <div id="instalacao">
     <h3 align="center">Instalação</h3>
-    <p> É necessário ter o <a href="https://nodejs.org/en/" target="_blank">Node.JS</a> ou o <a href="https://classic.yarnpkg.com/en/" target="_blank">Yarn</a> instalado para seguir os próximos passos; </p>
+    <p> :warning: É necessário ter o <a href="https://nodejs.org/en/" target="_blank">Node.JS</a> ou o <a href="https://classic.yarnpkg.com/en/" target="_blank">Yarn</a> instalado para seguir os próximos passos; </p>
 
       # Clone the repository
       $ git clone https://github.com/TiagoSansao/Happy-NLW-03
@@ -41,7 +41,7 @@
       $ yarn start
 
   </div>
-  <div id="tecnologias">>
+  <div id="tecnologias">
     <h3 align="center">Tecnologias utilizadas</h3>
     <ul>
       <li>React.JS</li>
