@@ -9,7 +9,6 @@
     <a href="preview">Preview</a> •
     <a href="tecnologias">Tecnologias</a> •
     <a href="instalacao">Instalação</a> •
-    <a href="autor">Autor</a> •
     <a href="licenc-a">Licença</a>
   </p>
 </header>
@@ -30,7 +29,7 @@
     <p> É necessário ter o <a href="https://nodejs.org/en/" target="_blank">Node.JS</a> ou o <a href="https://classic.yarnpkg.com/en/" target="_blank">Yarn</a> instalado para seguir os próximos passos; </p>
 
       # Clone the repository
-      $ git clone https://github.com/TiagoSansao/Happy-NLW-03 
+      $ git clone https://github.com/TiagoSansao/Happy-NLW-03
 
       # Go to the directory
       $ cd Happy-NLW-3
@@ -41,6 +40,16 @@
       # Start the application
       $ yarn start
 
+  </div>
+  <div>
+    <h3 align="center"> Tecnologias utilizadas </h3>
+    <ul>
+      <li>React.JS</li>
+      <li>Typescript</li>
+    </ul>
+  </div>
+  <div>
+    <h3 align="center">Licença</h3>
   </div>
 
 </main>
