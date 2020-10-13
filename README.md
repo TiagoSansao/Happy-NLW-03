@@ -50,6 +50,7 @@
   </div>
   <div>
     <h3 align="center">Licença</h3>
+    <p>O projeto está sobre a licença <a href="https://github.com/TiagoSansao/Happy-NLW-03/blob/master/LICENSE" target="_blank">MIT</a>!</p>
   </div>
 
 </main>
