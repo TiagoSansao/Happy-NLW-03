@@ -11,6 +11,7 @@
     <a href="#tecnologias">Tecnologias</a> •
     <a href="#licenca">Licença</a>
   </p>
+  <hr/>
 </header>
 <main>
   <div id="status">
@@ -50,7 +51,7 @@
   </div>
   <div id="licenca">
     <h3 align="center">Licença</h3>
-    <p>O projeto está sobre a licença <a href="https://github.com/TiagoSansao/Happy-NLW-03/blob/master/LICENSE" target="_blank">MIT</a>!</p>
+    <p> :large_blue_circle: O projeto está sobre a licença <a href="https://github.com/TiagoSansao/Happy-NLW-03/blob/master/LICENSE" target="_blank">MIT</a>!</p>
   </div>
 
 </main>
