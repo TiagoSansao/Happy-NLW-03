@@ -1,1 +1,1 @@
-<img src="./src/images/logo.svg" alt="logo"> <h1><strong>HAPPY</strong></h1>
+<div><img src="./src/images/logo.svg" alt="logo"> <strong>HAPPY</strong></div>
