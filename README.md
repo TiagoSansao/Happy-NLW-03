@@ -5,10 +5,10 @@
     <strong>Projeto feito para facilitar a localização de orfanatos em Joinville, Santa Catarina.</strong> 
   </p>
   <p align="center"> 
-  <a href="#Status do projeto">Status do projeto</a> •
+  <a href="#status_do_projeto">Status do projeto</a> •
     <a href="#preview">Preview</a> •
     <a href="#instalação">Instalação</a> •
-    <a href="#tecnologias utilizidas">Tecnologias</a> •
+    <a href="#tecnologias_utilizidas">Tecnologias</a> •
     <a href="#licença">Licença</a>
   </p>
 </header>
