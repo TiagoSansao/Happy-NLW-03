@@ -15,11 +15,13 @@
 </header>
 <main>
   <div>
+    <h2 align="center">Status do projeto</h2>
     <h4 align="center">
       🚧 O projeto está em desenvolvimento. 🚧
     </h4>
   </div>
   <div>
+    <h2> Preview </h2>
     <img src="./src/images/git-preview-1.png">
     <img src="./src/images/git-preview-2.png">
   </div>
