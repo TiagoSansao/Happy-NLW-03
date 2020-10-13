@@ -8,13 +8,13 @@
   <a href="#status">Status do projeto</a> •
     <a href="#preview">Preview</a> •
     <a href="#instalação">Instalação</a> •
-    <a href="#tecnologias">Tecnologias</a> •
+    <a href="#tecnologias utilizadas">Tecnologias</a> •
     <a href="#licença">Licença</a>
   </p>
 </header>
 <main>
   <div>
-    <h3 align="center">Status do projeto</h3>
+    <h3 align="center">Status</h3>
     <h4 align="center">
       🚧 O projeto está em desenvolvimento. 🚧
     </h4>
@@ -42,7 +42,7 @@
 
   </div>
   <div>
-    <h3 align="center"> Tecnologias utilizadas </h3>
+    <h3 align="center">Tecnologias utilizadas</h3>
     <ul>
       <li>React.JS</li>
       <li>Typescript</li>
