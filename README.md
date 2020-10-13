@@ -5,10 +5,10 @@
     <strong>Projeto feito para facilitar a localização de orfanatos em Joinville, Santa Catarina.</strong> 
   </p>
   <p align="center"> 
-  <a href="#status">Status do projeto</a> •
+  <a href="#status">Status</a> •
     <a href="#preview">Preview</a> •
     <a href="#instalação">Instalação</a> •
-    <a href="#tecnologias utilizadas">Tecnologias</a> •
+    <a href="#tecnologias">Tecnologias</a> •
     <a href="#licença">Licença</a>
   </p>
 </header>
@@ -42,7 +42,7 @@
 
   </div>
   <div>
-    <h3 align="center">Tecnologias utilizadas</h3>
+    <h3 align="center" id="tecnologias">Tecnologias utilizadas</h3>
     <ul>
       <li>React.JS</li>
       <li>Typescript</li>
