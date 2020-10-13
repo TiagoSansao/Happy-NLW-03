@@ -1,5 +1,5 @@
 </header>
-  <div align="center" ><img src="./src/images/map-marker.svg" alt="logo" /></div>
+  <div align="center" ><img src="./front-end/src/images/map-marker.svg" alt="logo" /></div>
   <h1 align="center"> Happy </h1>
   <p align="center"> 
     <strong>Projeto feito para facilitar a localização de orfanatos em Joinville, Santa Catarina.</strong> 
@@ -22,8 +22,8 @@
   </div>
   <div id="preview">
     <h3 align="center">Preview</h3>
-    <img src="./src/images/git-preview-1.png">
-    <img src="./src/images/git-preview-2.png">
+    <img src="./front-end/src/images/git-preview-1.png">
+    <img src="./front-end/src/images/git-preview-2.png">
   </div>
   <div id="instalacao">
     <h3 align="center">Instalação</h3>
