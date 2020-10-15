@@ -9,4 +9,5 @@ const upload = multer(uploadConfig);
 routes.post('/orfanatos', upload.array('images'), OrphanagesController.create);
 routes.get('/orfanatos', OrphanagesController.index);
 routes.get('/orfanatos/:id', OrphanagesController.show);
+
 export default routes;
