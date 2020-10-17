@@ -48,6 +48,18 @@ export default function CreateOrphanage() {
 
   }
 
+  function handleRemoveImage(index: number) {
+    const newImages = [...images];
+    newImages.splice(index, 1);
+    setImages(newImages);
+
+    const selectedImagesPreview = newImages.map(image => {
+      return URL.createObjectURL(image)
+    });
+
+    setPreviewImages(selectedImagesPreview);
+  }
+
   async function handleSubmit(e: FormEvent) {
     e.preventDefault()
     const {latitude, longitude} = position;
@@ -126,9 +138,12 @@ export default function CreateOrphanage() {
 
               <div className="images-container">
 
-                  {previewImages.map(image => {
+                  {previewImages.map((image, index) => {
                     return (
-                      <img src={image} alt={name} key={image} />
+                      <div style={{position: 'relative'}} key={image}>
+                        <div className="removeImageButton" onClick={() => handleRemoveImage(index)}>X</div>
+                        <img src={image} alt={name} />
+                      </div>
                     )
                   })}
 

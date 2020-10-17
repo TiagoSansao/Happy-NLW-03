@@ -98,6 +98,8 @@ form.create-orphanage-form .input-block .images-container img {
   height: 96px;
   object-fit: cover;
   border-radius: 20px;
+  position: relative;
+  z-index: 5;
 }
 
 form.create-orphanage-form .input-block .new-image {
@@ -169,4 +171,21 @@ form.create-orphanage-form button.confirm-button svg {
 
 form.create-orphanage-form button.confirm-button:hover {
   background: #36cf82;
+}
+
+.removeImageButton {
+  position: absolute;
+  z-index: 10;
+  top: 0px;
+  right: 0px;
+  color: red;
+  background-color: rgba(230, 57, 57, 0.5);
+  width: 25px;
+  height: 25px;
+  border-bottom-left-radius: 15px;
+  border-top-right-radius: 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
 }
