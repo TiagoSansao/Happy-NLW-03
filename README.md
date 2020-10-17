@@ -17,7 +17,7 @@
   <div id="status">
     <h3 align="center">Status do projeto</h3>
     <h4 align="center">
-      🚧 O projeto está em desenvolvimento. 🚧
+      - O projeto está finalizado!
     </h4>
   </div>
   <div id="preview">
@@ -28,24 +28,63 @@
   <div id="instalacao">
     <h3 align="center">Instalação</h3>
     <p> :warning: É necessário ter o <a href="https://nodejs.org/en/" target="_blank">Node.JS</a> ou o <a href="https://classic.yarnpkg.com/en/" target="_blank">Yarn</a> instalado para seguir os próximos passos; </p>
+<ul><li>Front-end</li></ul>
+    
+    # Clone the repository
+    $ git clone https://github.com/TiagoSansao/Happy-NLW-03
 
-      # Clone the repository
-      $ git clone https://github.com/TiagoSansao/Happy-NLW-03
+    # Go to the directory
+    $ cd Happy-NLW-3
+    $ cd front-end/
 
-      # Go to the directory
-      $ cd Happy-NLW-3
+    # Install all the dependencies
+    $ yarn install
 
-      # Install all the dependencies
-      $ yarn install
+    # Start the application
+    $ yarn start
+ 
+<ul><li>Back-end</li></ul>   
+    
+    # Clone the repository
+    $ git clone https://github.com/TiagoSansao/Happy-NLW-03
 
-      # Start the application
-      $ yarn start
+    # Go to the directory
+    $ cd Happy-NLW-3
+    $ cd back-end/
 
+    # Install all the dependencies
+    $ yarn install
+
+    # Start the application
+    $ yarn dev
+    
+  <ul><li>Mobile</li></ul>   
+  
+    # Clone the repository
+    $ git clone https://github.com/TiagoSansao/Happy-NLW-03
+
+    # Go to the directory
+    $ cd Happy-NLW-3
+    $ cd mobile/
+
+    # Install all the dependencies
+    $ yarn install
+
+    # Start the application
+    $ yarn start
+    
   </div>
   <div id="tecnologias">
     <h3 align="center">Tecnologias utilizadas</h3>
     <ul>
-      <li>React.JS</li>
+      <li>Express</li>
+      <li>SQLite3</li>
+      <li>Yup</li>
+      <li>Leaflet</li>
+      <li>Axios</li>
+      <li>Expo</li>
+      <li>ReactJS</li>
+      <li>React-native</li>
       <li>Typescript</li>
     </ul>
   </div>
